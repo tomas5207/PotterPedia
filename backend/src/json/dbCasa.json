@@ -1,0 +1,20 @@
+{
+    "casa": [
+        {
+            "nombre": "Gryffindor",
+            "logo": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715554106/Gryffindor_ppevhf.webp"
+        },
+        {
+            "nombre": "Slytherin",
+            "logo": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715554219/Slytherin_bfq14t.webp"
+        },
+        {
+            "nombre": "Hufflepuff",
+            "logo": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715554188/Hufflepuff_xz1jd8.webp"
+        },
+        {
+            "nombre": "Ravenclaw",
+            "logo": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715554210/Ravenclaw_dlkmj9.webp"
+        }
+    ]
+}

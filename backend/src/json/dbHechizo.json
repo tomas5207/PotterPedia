@@ -1,0 +1,405 @@
+{
+    "hechizo": [
+        {
+            "nombre": "Avada Kedavra",
+            "descripcion": "Se utiliza para matar gente, consiste en una Maldición Imperdonable y era el favorito de Voldemort",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715786745/Avada_Kedavra_cb2qim.webp"
+        },
+        {
+            "nombre": "Crucio",
+            "descripcion": "Es una herramienta de las Artes Oscuras y una de las tres Maldiciones Imperdonables. Cuando se lanza correctamente, la maldición genera un dolor intenso y agónico en la víctima",
+            "movimiento": "Apuntar con la varita a la víctima"
+        },
+        {
+            "nombre": "Imperio",
+            "descripcion": "Consiste en una Maldición Imperdonable que pone a la víctima bajo el control completo del lanzador",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715789376/Imperius_d58jrs.webp"
+        },
+        {
+            "nombre": "Morsmodre",
+            "descripcion": "Los mortifagos usan este para conjurar la Marca Tenebrosa en el cielo. El lanzador básicamente coloca un letrero gigante y alerta a todos sobre su presencia maligna",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715792184/Morsmodre_dalghy.webp"
+        },
+        {
+            "nombre": "Brackium Emendo",
+            "descripcion": "Es el conjuro de un hechizo sanador que podría usarse para eliminar huesos. No se sabe si este hechizo en particular es un hechizo sanador legítimo o simplemente una variación de uno.",
+            "movimiento": "Apunta con la varita"
+        },
+        {
+            "nombre": "Cofringo",
+            "descripcion": "Provoca explosiones en el mundo de Harry Potter",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715792341/Confringo_mv2nbc.webp"
+        },
+        {
+            "nombre": "Sectumsempra",
+            "descripcion": "Severus Snape inventa este y su único uso radica en cortar a un enemigo con una espada invisible",
+            "movimiento": "Mover la varita en forma de corte"
+        },
+        {
+            "nombre": "Slugulus Eructo",
+            "descripcion": "Es un encantamiento que obliga a la víctima a vomitar babosas. También pueden adquirir una tez cetrina como efecto secundario",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715792671/Slugulus_Eructo_jvzmcb.webp"
+        },
+        {
+            "nombre": "Furnunculus",
+            "descripcion": "Cubre a un enemigo en forúnculos",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715792755/Furnunculus_iy7fvn.webp"
+        },
+        {
+            "nombre": "Densaugeo",
+            "descripcion": "Los dientes del objetivo crecen, pero no resulta muy práctico para el resto de cosas",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715792860/Densaugeo_czgl97.webp"
+        },
+        {
+            "nombre": "Locomotor Wibbly",
+            "descripcion": "Hace que las piernas de la víctima colapsen como si se convirtieran en gelatina",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715793058/Locomotor_Wibbly_p7woyt.webp"
+        },
+        {
+            "nombre": "Tarantallegra",
+            "descripcion": "Es un encantamiento que hace que las piernas de un objetivo sufran espasmos fuera de control, haciendo que pareciera como si estuviera bailando",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715793194/Tarantallegra_xvzrfr.webp"
+        },
+        {
+            "nombre": "Serpensortia",
+            "descripcion": "Conjura una serpiente desde la punta de la varita",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715793286/Serpensortia_zkrebe.webp"
+        },
+        {
+            "nombre": "Levicorpus",
+            "descripcion": "Levanta a alguien boca abajo en el aire, como si estuviera colgado",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715793362/Levicorpus_gdx6ru.webp"
+        },
+        {
+            "nombre": "Flagrante",
+            "descripcion": "Hace que los objetos emitan un calor abrasador cuando se tocan",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715793511/Flagrante_wnpdre.webp"
+        },
+        {
+            "nombre": "Waddiwasi",
+            "descripcion": "Se utiliza para propulsar objetos pequeños a alta velocidad a un objetivo",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715793693/Waddiwasi_adpx5l.webp"
+        },
+        {
+            "nombre": "Duro",
+            "descripcion": "Convierte objetos en piedra",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715793863/Duro_pwz3mn.webp"
+        },
+        {
+            "nombre": "Alarte Ascendare",
+            "descripcion": "Lanzamiento de un objeto en el aire",
+            "movimiento": "Blandir la varita"
+        },
+        {
+            "nombre": "Glisseo",
+            "descripcion": "Añade ciertas propiedades a un objeto o criatura transformandolo en algo diferente. Por ejemplo, si lo usas en unos escalones puedes aplanarlos de tal forma que lo conviertas en un tobogan.",
+            "movimiento": "Desconocido"
+        },
+        {
+            "nombre": "Locomotor mortis",
+            "descripcion": "Es un maleficio que une las piernas de la víctima, provocando que estas se paralizen",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715794445/Locomotor_Mortis_zm50cm.webp"
+        },
+        {
+            "nombre": "Petrificus Totalus",
+            "descripcion": "Provoca que el objetivo se quede paralizado temporalmente",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715794366/Petrificus_Totalus_vv4fyo.webp"
+        },
+        {
+            "nombre": "Liberacorpus",
+            "descripcion": "Invierte los efectos provocados por el hechizo Levicorpus",
+            "movimiento": "Sacudir la varita hacia arriba"
+        },
+        {
+            "nombre": "Orchideous",
+            "descripcion": "Conjura un ramo de flores de la punta de la varita del lanzador",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715794595/Orchideous_y7uzhu.webp"
+        },
+        {
+            "nombre": "Avis",
+            "descripcion": "Conjura una pequeña bandada de pájaros que salen disparados de la punta de la varita",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715794679/Avis_jaalg2.webp"
+        },
+        {
+            "nombre": "Descendo",
+            "descripcion": "Hace que el objeto o grupo de objetos apuntados con la varita caigan o se muevan hacia abajo",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715794815/Descendo_vyrixs.webp"
+        },
+        {
+            "nombre": "Aparecium",
+            "descripcion": "Revela mensajes secretos",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715794993/Aparecium_yoke8a.webp"
+        },
+        {
+            "nombre": "Obscuro",
+            "descripcion": "Venda los ojos al objetivo, obstruyendo la visión de lo que le rodea",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715795118/Obscuro_ylahph.webp"
+        },
+        {
+            "nombre": "Incarcerous",
+            "descripcion": "Es un hechizo que conjura cuerdas gruesas o cuerdas delgadas, que atan a lo que fuera que el lanzador apuntaba con su varita",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715795209/Incarcerous_vhwnkc.webp"
+        },
+        {
+            "nombre": "Deprimo",
+            "descripcion": "Encantamiento que abre agujeros en el suelo",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715795302/Deprimo_ebb5rb.webp"
+        },
+        {
+            "nombre": "Meteoloembrujo Recanto",
+            "descripcion": "Cesa los efectos climáticos causados por distintos encantamientos",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715795470/Meteolojinx_recanto_wpekom.webp"
+        },
+        {
+            "nombre": "Oppugno",
+            "descripcion": "Embrujo que dirige un objeto o individuo a atacar a la víctima",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715795541/Oppugno_klvip5.webp"
+        },
+        {
+            "nombre": "Point me",
+            "descripcion": "Hace que las varitas apunten hacia el norte y podría ser útil para fines de orientación",
+            "movimiento": "Pon la varita horizontal sobre la palma de la mano"
+        },
+        {
+            "nombre": "Deletrius",
+            "descripcion": "Encantamiento usado para desintegrar o desaparecer un objetivo. También puede servir para borrar la sombra del último conjuro realizado por una varita",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715795661/Deletrius_gpgpuv.webp"
+        },
+        {
+            "nombre": "Specialis Revelio",
+            "descripcion": "Permite a su lanzador revelar cosas ocultas o las propiedades mágicas de algo",
+            "movimiento": "Golpe seco inteligentemente"
+        },
+        {
+            "nombre": "Prior Incantato",
+            "descripcion": "Se mostrará el último hechizo realizado por dicha varita. Este hechizo es señalado con un eco o imagen del usuario realizando el hechizo",
+            "movimiento": "Mantener la punta de la varita lanzadora en la varita en cual se va a usar el hechizo"
+        },
+        {
+            "nombre": "Homenum Revelio",
+            "descripcion": "Revela presencia humana en las cercanías del lanzador",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715799820/Homenum_revelio_sypbzz.webp"
+        },
+        {
+            "nombre": "Erecto",
+            "descripcion": "Es un hechizo utilizado para levantar o construir una tienda, así como también otras edificaciones",
+            "movimiento": "Apuntar con la varita al objetivo"
+        },
+        {
+            "nombre": "Colloportus",
+            "descripcion": "Se utiliza para bloquear o sellar puertas de modo que no se pueden abrir manualmente",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715800141/Colloportus_au80v1.webp"
+        },
+        {
+            "nombre": "Alohomora",
+            "descripcion": "Encantamiento que permite abrir puertas y ventanas que no están protegidas por magia",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715800323/Alohomora_eppcbj.webp"
+        },
+        {
+            "nombre": "Sonorus",
+            "descripcion": "Amplifica el sonido",
+            "movimiento": "Apuntar con la varita al objetivo"
+        },
+        {
+            "nombre": "Muffiato",
+            "descripcion": "Crea un zumbido en los oídos cercanos, lo que le permite tener una conversación privada en medio de un lugar público",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715800430/Muffliato_p1fivz.webp"
+        },
+        {
+            "nombre": "Relashio",
+            "descripcion": "Obliga a una cosa o persona a soltar su agarre sobre algo, o repele objetos con la fuerza de otro",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715800488/Relashio_ah9bxx.webp"
+        },
+        {
+            "nombre": "Mobilicorpus",
+            "descripcion": "Permite mover o levitar a una persona inconsciente o incapacitada de moverse por si mismo",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715800699/Mobilicorpus_sdc7zj.webp"
+        },
+        {
+            "nombre": "Expulso",
+            "descripcion": "Maldición para producir inmensas explosiones de color azul, las cuales utilizan la presión del aire lo suficientemente fuertes como para hacer volar a alguien por los aires",
+            "movimiento": "Apunta con la varita al objetivo"
+        },
+        {
+            "nombre": "Reducto",
+            "descripcion": "Maldición usada para estallar elementos sólidos y reducirlos a pedazos",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715800965/Reducto_fcpcu8.webp"
+        },
+        {
+            "nombre": "Diffindo",
+            "descripcion": "Corta objetos, lo que significa que es básicamente el equivalente mágico de unas tijeras afiladas",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801156/Diffindo_l2hktj.webp"
+        },
+        {
+            "nombre": "Defondio",
+            "descripcion": "Encantamiento usado para excavar porciones de tierra o roca",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801213/Defodio_jygkol.webp"
+        },
+        {
+            "nombre": "Capacious Extremis",
+            "descripcion": "Provoca que el espacio interior se vuelve más grande de lo que parece en el exterior",
+            "movimiento": "Desconocido"
+        },
+        {
+            "nombre": "Piertotum Locomotor",
+            "descripcion": "Utilizado para dar vida a uno o más objetos que estaban, previamente, en estado inanimado e inmóvil. Los movimientos del objetivo pueden ser controlados por el lanzador del encantamiento",
+            "movimiento": "Para reanimar solo a un objeto apunte la varita a este, para reanimar a varios sostenga la varita en alto o agite"
+        },
+        {
+            "nombre": "Confundo",
+            "descripcion": "Causa confusión en una persona o en una cosa, encantándola",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801555/Confundus_iu06lu.webp"
+        },
+        {
+            "nombre": "Expectro Patronum",
+            "descripcion": "Es un hechizo sumamente complicado y extremadamente difícil de realizar, que genera una fuerza de energía positiva parcialmente tangible conocida como Patronus o espíritu guardián. Es la principal defensa contra Dementores y Lethifolds",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715786555/Patronum_e4qwla.webp"
+        },
+        {
+            "nombre": "Quietus",
+            "descripcion": "Contra-hechizo de Sonorus. Baja el volumen de algunos sonidos",
+            "movimiento": "Apuntar al objetivo"
+        },
+        {
+            "nombre": "Tergeo",
+            "descripcion": "Es un encantamiento de limpieza usado para aspirar con la varita cualquier sustancia que ensucie su objetivo, como sangre, polvo o grasa",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715786451/Tergeo_y5n6kr.webp + Apunta la varita al objetivo"
+        },
+        {
+            "nombre": "Riddikulus",
+            "descripcion": "Se utiliza para defenderse contra un Boggart. La criatura asume una forma que sea chistosa para el lanzador, contrarrestando así la capacidad del Boggart para aterrorizar",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801660/Riddikulus_uh7qrs.webp"
+        },
+        {
+            "nombre": "Langlock",
+            "descripcion": "Pega la lengua de la víctima al paladar para que no pueda hablar. Útil para bloquear conjuros verbales",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801738/Langlock_ntf6h7.webp"
+        },
+        {
+            "nombre": "Impedimenta",
+            "descripcion": "Es un embrujo que obstaculiza el movimiento del objetivo, ralentizándolo o deteniéndolo en seco",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715786347/Impedimenta_mzu91j.webp"
+        },
+        {
+            "nombre": "Férula",
+            "descripcion": "Usado para vendar y entablillar los huesos rotos. Conjura unas vendas y una tablilla que atan e inmovilizan firmemente la extremidad lastimada del objetivo, ayudando a disminuir el dolor al cargar peso en la extremidad.",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801816/F%C3%A9rula_cbdtwt.webp"
+        },
+        {
+            "nombre": "Lumos",
+            "descripcion": "Encantamiento utilizado para iluminar la punta de la varita del mago",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801869/Lumos_pbiked.webp"
+        },
+        {
+            "nombre": "Nox",
+            "descripcion": "Es el contra-hechizo del encantamiento para encender varitas, Lumos. Causa que la luz de la punta de la varita del mago se apague",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715801927/Nox_evhxl4.webp"
+        },
+        {
+            "nombre": "Impervius",
+            "descripcion": "Causa que un elemento se vuelva impermeable, tanto contra líquidos, como contra sólidos, garantizando así una mayor protección al lanzador o a otra persona",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802005/Impervius_uqyxza.webp"
+        },
+        {
+            "nombre": "Engorgio",
+            "descripcion": "Hace que un objeto crezca de tamaño",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802058/Engorgio_rkhcrg.webp"
+        },
+        {
+            "nombre": "Salvio Hexia",
+            "descripcion": "Encantamiento protector de área. Posiblemente refleje maleficios",
+            "movimiento": "Hacia abajo, con la palma de la mano opuesta al frente"
+        },
+        {
+            "nombre": "Obliviate",
+            "descripcion": "Borra algunos o todos los recuerdos de la mente de un individuo",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802118/Obliviate_cuthly.webp"
+        },
+        {
+            "nombre": "Repello Muggletum",
+            "descripcion": "Mantiene alejados a los muggles del lugar que desea, haciéndoles ver que el lugar en cuestión es peligroso",
+            "movimiento": "Levantar la varita en alto"
+        },
+        {   
+            "nombre": "Portus",
+            "descripcion": "Es un encantamiento usado para convertir un objeto común en un Traslador. Es decir, en un objeto que si lo tocas te lleva a un lugar en especifico",
+            "movimiento": "Apuntar al objeto con la varita"
+        },
+        {
+            "nombre": "Desmaius",
+            "descripcion": "Deja inconsciente a la víctima y detiene cosas en movimiento",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802309/Desmaius_vxdpjh.webp"
+        },
+        {
+            "nombre": "Rennervate",
+            "descripcion": "Este es otro conjuro de primeros auxilios de suma importancia, que permite al lanzador despertar a una víctima inconsciente",
+            "movimiento": "Apunta la varita al pecho del objetivo"
+        },
+        {
+            "nombre": "Espiskey",
+            "descripcion": "Sirve para curar heridas menores, como fracturas de los huesos de la nariz o labios rotos",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802417/Episkey_qcuume.webp"
+        },
+        {
+            "nombre": "Silencio",
+            "descripcion": "La víctima queda temporalmente muda. Funciona tanto en las bestias como en los seres",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802465/Silencio_bdrowb.webp"
+        },
+        {
+            "nombre": "Fregotego",
+            "descripcion": "Sirve para limpiar un objeto",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802587/Fregotego_ycitho.webp"
+        },
+        {
+            "nombre": "Reparo",
+            "descripcion": "Sirve para arreglar un objeto",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802632/Reparo_kgystj.webp"
+        },
+        {
+            "nombre": "Finite Incantatem",
+            "descripcion": "Es un contrahechizo que cesa todos los efectos de los hechizos",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715786192/Finite_Incantatem_eosik4.webp"
+        },
+        {
+            "nombre": "Protego",
+            "descripcion": "Protege al lanzador con un escudo invisible que refleja hechizos y bloquea entidades físicas",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802716/Protego_ffo2uo.webp"
+        },
+        {
+            "nombre": "Expelliarmus",
+            "descripcion": "Encantamiento defensivo que fuerza a la víctima a soltar lo que sea que esté sujetando. Es muy utilizado en los duelos para desarmar al contricante y dejarlo sin varita",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802761/Expelliarmus_rwtlnt.webp"
+        },
+        {
+            "nombre": "Wingardium Leviosa",
+            "descripcion": "Hace que los objetos vuelen o leviten",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802809/Wingardium_Leviosa_r8frgs.webp"
+        },
+        {
+            "nombre": "Accio",
+            "descripcion": "Hace que un objeto inanimado que está a distancia de quien lanza el conjuro vuele o levite hacia sus brazos",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802865/Accio_uv6b3f.webp"
+        },
+        {
+            "nombre": "Anapneo",
+            "descripcion": "Despeja las vías respiratorias del objetivo desvaneciendo bloqueos, evitando que ocurran atragantamientos",
+            "movimiento": "Apunta la varita al objetivo"
+        },
+        {
+            "nombre": "Incendio",
+            "descripcion": "Produce fuego",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802914/Incendio_obuf5x.webp"
+        },
+        {
+            "nombre": "Evanesco",
+            "descripcion": "Hace que las cosas desaparezcan",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715802960/Evanesco_vke8o1.webp"
+        },
+        {
+            "nombre": "Aguamenti",
+            "descripcion": "Produce agua limpia y potable desde la punta de la varita",
+            "movimiento": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715799933/Aguamenti_frgbfm.webp"
+        }
+
+    ]
+}
