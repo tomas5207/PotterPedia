@@ -5,105 +5,121 @@
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715879590/Harry_Potter_hr0irz.webp",
             "edad": 43,
             "status": "Vivo",
-            "bio": "Conocido como el niño que vivio, Harry es el única persona conocida en haber sobrevivido dos veces a un Avada Kedavra(la Maldición asesina) ambos lanzados por Voldemort. Luego de la segunda guerra mágica , Harry se convirtio en Auror y se caso con Ginny Weasley con quien tuvo 2 hijos(James Potter II y Albus Potter) y 1 hija(Lily Potter). En 2007 fue ascendido a jefe de la Oficina de Aurores, para posteriormente años más tarde en 2020 ser ascendido nuevamente como jefe del Departamento de Seguridad Mágica"
+            "bio": "Conocido como el niño que vivio, Harry es el única persona conocida en haber sobrevivido dos veces a un Avada Kedavra(la Maldición asesina) ambos lanzados por Voldemort. Luego de la segunda guerra mágica , Harry se convirtio en Auror y se caso con Ginny Weasley con quien tuvo 2 hijos(James Potter II y Albus Potter) y 1 hija(Lily Potter). En 2007 fue ascendido a jefe de la Oficina de Aurores, para posteriormente años más tarde en 2020 ser ascendido nuevamente como jefe del Departamento de Seguridad Mágica",
+            "CasaId": 1
         },{
             "nombre": "Ronald Weasley",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715880843/Ron-Weasley_hvlqfx.webp",
             "edad": 43,
             "status": "Vivo",
-            "bio": "Ron es un mago de sangre pura, el sexto y más joven hijo de Arthur y Molly Weasley y mejor amigo de Harry Potter. Luego de la segunda guerra mágica, Ron se convirtió en Auror durante dos años, en los cuales ayudó a reformar y revolucionar el Ministerio de Magia. Actualmente es Co-propietario de la tienda de bromas Sortilegios Weasley junto a su hermano George y esta casado con Hermione Granger con quien tuvo 1 hijo(Hugo Weasley) y 1 hija(Rose Weasley)"
+            "bio": "Ron es un mago de sangre pura, el sexto y más joven hijo de Arthur y Molly Weasley y mejor amigo de Harry Potter. Luego de la segunda guerra mágica, Ron se convirtió en Auror durante dos años, en los cuales ayudó a reformar y revolucionar el Ministerio de Magia. Actualmente es Co-propietario de la tienda de bromas Sortilegios Weasley junto a su hermano George y esta casado con Hermione Granger con quien tuvo 1 hijo(Hugo Weasley) y 1 hija(Rose Weasley)",
+            "CasaId": 1
         },{
             "nombre": "Hermione Granger",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715882517/Hermione_Granger_dyiizl.webp",
             "edad": 44,
             "status": "Viva",
-            "bio": "Es una bruja hija de muggles. Sus padres, el Sr. y Sra. Granger son dentistas en el mundo muggle. Luego de la segunda guerra mágica, volvio a Hogwarts para terminar su educación y posteriormente trabajaría en el Departamento de Regulación y Control de Criaturas Mágicas con el fin de que trataran mejor a los elfos domésticos. Actualmente es la nueva Ministra de Magia luego de que Kinsley Shacklebolt se retirara en 2018 y esta casada con Ronald Weasley con quien tuvo 1 hijo(Hugo Weasley) y 1 hija(Rose Weasley)."
+            "bio": "Es una bruja hija de muggles. Sus padres, el Sr. y Sra. Granger son dentistas en el mundo muggle. Luego de la segunda guerra mágica, volvio a Hogwarts para terminar su educación y posteriormente trabajaría en el Departamento de Regulación y Control de Criaturas Mágicas con el fin de que trataran mejor a los elfos domésticos. Actualmente es la nueva Ministra de Magia luego de que Kinsley Shacklebolt se retirara en 2018 y esta casada con Ronald Weasley con quien tuvo 1 hijo(Hugo Weasley) y 1 hija(Rose Weasley).",
+            "CasaId": 1
         },{
             "nombre": "Albus Dumbeldore",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715890880/Albus_Dumbledore_bvl6my.webp",
             "edad": 116,
             "status": "Muerto",
-            "bio": "Fue profesor de Transformaciones y más tarde director del Colegio Hogwarts de Magia y Hechicería, además de ser considerado el mago más poderoso de su época. Él era famoso por derrotar a Gellert Grindelwald, descubrir doce usos de la sangre de dragón, y su trabajo en alquimia con Nicolas Flamel. Debido a que estaba a punto de morir a causa de un anillo maldito, planeó su propia muerte junto con Severus Snape, muriendo finalmente en la Torre de Astronomía del Castillo Hogwarts luego que este último le lanzara un Avada Kedavra"  
+            "bio": "Fue profesor de Transformaciones y más tarde director del Colegio Hogwarts de Magia y Hechicería, además de ser considerado el mago más poderoso de su época. Él era famoso por derrotar a Gellert Grindelwald, descubrir doce usos de la sangre de dragón, y su trabajo en alquimia con Nicolas Flamel. Debido a que estaba a punto de morir a causa de un anillo maldito, planeó su propia muerte junto con Severus Snape, muriendo finalmente en la Torre de Astronomía del Castillo Hogwarts luego que este último le lanzara un Avada Kedavra",
+            "CasaId": 1 
 
         },{
             "nombre": "Neville Longbottom",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715958364/Neville_uhnthh.webp",
             "edad": 43,
             "status": "Vivo",
-            "bio": "Es el actual profesor de Herbología del Colegio Hogwarts de Magia y Hechicería. Poco después de su nacimiento, los padres de Neville fueron torturados hasta la locura por cuatro mortígafos, con el maleficio Cruciatus y debido a esto terminaron internados en la Sala Janus Thickey en el Hospital San Mungo de Enfermedades y Heridas Mágicas, haciendo que Neville tuviera que ser criado por su abuela. Luego de la segunda guerra mágica, Neville sirvió brevemente como un Auror y más tarde se convirtió en el profesor de Herbología de Hogwarts y se casó con Hannah Abbott"
+            "bio": "Es el actual profesor de Herbología del Colegio Hogwarts de Magia y Hechicería. Poco después de su nacimiento, los padres de Neville fueron torturados hasta la locura por cuatro mortígafos, con el maleficio Cruciatus y debido a esto terminaron internados en la Sala Janus Thickey en el Hospital San Mungo de Enfermedades y Heridas Mágicas, haciendo que Neville tuviera que ser criado por su abuela. Luego de la segunda guerra mágica, Neville sirvió brevemente como un Auror y más tarde se convirtió en el profesor de Herbología de Hogwarts y se casó con Hannah Abbott",
+            "CasaId": 1
         },
         {
             "nombre": "Luna Lovegood",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996266/Luna_lovegood_p3z0b1.webp",
             "edad": 43,
             "status": "Viva",
-            "bio": "Es una bruja, la única hija de Xenophilius y Pandora Lovegood. Su madre murió accidentalmente mientras experimentaba con hechizos cuando Luna tenía nueve años y fue criada por su padre. Luego de la segunda guerra mágica, Luna se convirtió en una Magizoologista, descubriendo y clasificando muchas especies que nunca antes se habían encontrado. Se casó con Rolf Scamander, con quien tuvo hijos gemelos(Lorcan y Lysander Scamander). Los buenos amigos de Luna Harry y Ginny Potter también nombraron a su hija(Lily Luna Potter) en honor a ella"
+            "bio": "Es una bruja, la única hija de Xenophilius y Pandora Lovegood. Su madre murió accidentalmente mientras experimentaba con hechizos cuando Luna tenía nueve años y fue criada por su padre. Luego de la segunda guerra mágica, Luna se convirtió en una Magizoologista, descubriendo y clasificando muchas especies que nunca antes se habían encontrado. Se casó con Rolf Scamander, con quien tuvo hijos gemelos(Lorcan y Lysander Scamander). Los buenos amigos de Luna Harry y Ginny Potter también nombraron a su hija(Lily Luna Potter) en honor a ella",
+            "CasaId": 4
         },
         {
             "nombre": "Severus Snape",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987216/SeverusSnape_lbmwwu.webp",
             "edad": 38,
             "status": "Muerto",
-            "bio": "Fue Maestro de Pociones, profesor de Defensa Contra las Artes Oscuras y director de Hogwarts. Snape mataría a Dumbledore por ordenes de este mismo ya que este estaba a punto de morir de todas maneras. Antes de la muerte de Dumbledore, Snape se comprometió a proteger a los estudiantes de Hogwarts de los mortífagos, que inevitablemente iban a tomar el control del Ministerio de la Magia, así como del colegio. Snape más tarde participó en la Batalla de Hogwarts, pero fue asesinado por Nagini, la serpiente Horrocrux de Lord Voldemort quien se lo ordenó porque equivocadamente creía que Snape era el amo de la Varita de Saúco."
+            "bio": "Fue Maestro de Pociones, profesor de Defensa Contra las Artes Oscuras y director de Hogwarts. Snape mataría a Dumbledore por ordenes de este mismo ya que este estaba a punto de morir de todas maneras. Antes de la muerte de Dumbledore, Snape se comprometió a proteger a los estudiantes de Hogwarts de los mortífagos, que inevitablemente iban a tomar el control del Ministerio de la Magia, así como del colegio. Snape más tarde participó en la Batalla de Hogwarts, pero fue asesinado por Nagini, la serpiente Horrocrux de Lord Voldemort quien se lo ordenó porque equivocadamente creía que Snape era el amo de la Varita de Saúco.",
+            "CasaId": 2
         },
         {
             "nombre": "Draco Malfoy",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715884143/Draco_Malfoy_netrh0.webp",
             "edad": 43,
             "status": "Vivo",
-            "bio": "Draco es un mago de sangre pura e hijo único de Lucius y Narcissa Malfoy. Horas antes de que la Batalla de Hogwarts acabara, el y su familia abandonaron el lugar para evitar ser encarcelados en Azkaban. Su riqueza hizo que no tuviera que trabajar, dedicandose a sus aficiones como coleccionar artilugios tenebrosos y la alquimia. El se caso con Astoria Greengrass y tuvieron 1 hijo(Scorpius Malfoy), pero lamentablemente en 2019 su esposa murio, dejando a Draco viudo y a su hijo Scorpius junto a el con el corazón destrosado"
+            "bio": "Draco es un mago de sangre pura e hijo único de Lucius y Narcissa Malfoy. Horas antes de que la Batalla de Hogwarts acabara, el y su familia abandonaron el lugar para evitar ser encarcelados en Azkaban. Su riqueza hizo que no tuviera que trabajar, dedicandose a sus aficiones como coleccionar artilugios tenebrosos y la alquimia. El se caso con Astoria Greengrass y tuvieron 1 hijo(Scorpius Malfoy), pero lamentablemente en 2019 su esposa murio, dejando a Draco viudo y a su hijo Scorpius junto a el con el corazón destrosado",
+            "CasaId": 2
         },{
             "nombre": "Tom Riddle",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715889839/Tomdh_eb64u0.webp",
             "edad": 71,
             "status": "Muerto",
-            "bio": "Mejor conocido como Lord Voldemort, fue el mago tenebroso más poderoso de todos los tiempos. Este al haber adoptado las enseñanzas de las Artes Obscuras que obtuvo en sus viajes, organizó un ejercito lleno de seguidores y criaturas mágicas con propósitos tenebrosos conocido como los Mortífagos. Durante la guerra mágica en el transcurso de la Batalla de Hogwarts este confronta a Harry Potter y muere a causa de que la varita que Tom uso en el choque de hechizos(Avada Kadavra y Expelliarmus) es de Harry, por lo tanto su propio hechizo rebota en el, matandolo definitivamente"
+            "bio": "Mejor conocido como Lord Voldemort, fue el mago tenebroso más poderoso de todos los tiempos. Este al haber adoptado las enseñanzas de las Artes Obscuras que obtuvo en sus viajes, organizó un ejercito lleno de seguidores y criaturas mágicas con propósitos tenebrosos conocido como los Mortífagos. Durante la guerra mágica en el transcurso de la Batalla de Hogwarts este confronta a Harry Potter y muere a causa de que la varita que Tom uso en el choque de hechizos(Avada Kadavra y Expelliarmus) es de Harry, por lo tanto su propio hechizo rebota en el, matandolo definitivamente",
+            "CasaId": 2
         },{
             "nombre": "Cedric Diggory",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715997663/Cedric-Diggory_axkiz3.webp",
             "edad": 18,
             "status": "Muerto",
-            "bio": "Fue el hijo de Amos Diggory y su esposa. Durante su estancia en el colegio Hogwarts fue prefecto y capitán del equipo de Quidditch de Hufflepuff, jugando como buscador. En su sexto año Cedric puso su nombre para competir en el Torneo de los Tres Magos, torneo en el que irremediablemente moriría a manos de Peter Pettigrew, ya que la copa del torneo era un traslador que llevo a Harry y a el a un pequeño cementerio donde estaba Peter cargando un pequeño y debil Voldemort que le ordeno a Peter matar a Cedric y este lo asesino con un Avada Kedavra"
+            "bio": "Fue el hijo de Amos Diggory y su esposa. Durante su estancia en el colegio Hogwarts fue prefecto y capitán del equipo de Quidditch de Hufflepuff, jugando como buscador. En su sexto año Cedric puso su nombre para competir en el Torneo de los Tres Magos, torneo en el que irremediablemente moriría a manos de Peter Pettigrew, ya que la copa del torneo era un traslador que llevo a Harry y a el a un pequeño cementerio donde estaba Peter cargando un pequeño y debil Voldemort que le ordeno a Peter matar a Cedric y este lo asesino con un Avada Kedavra",
+            "CasaId": 3
         },{
             "nombre": "Newton Scamander",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996924/NewtonScamander_wmihqf.webp",
             "edad": 127,
             "status": "Desconocido",
-            "bio": "También conocido simplemente como Newt por familiares y amigos, fue un famoso Magizoólogo y autor de Animales fantásticos y dónde encontrarlos. En 1918, él fue contratado por Augustus Worme de Obscurus Books, de la editorial Obscurus Books, para escribir su famoso libro (Animales fantásticos y dónde encontrarlos). Este ultimo se convirtió en un best-seller, haciendo de Scamander un respetado experto en el campo de la Magizoología. Actualmente no se sabe si sigue vivo o no, pero en caso de seguir vivo, se estima que tendría alrededor de los 127 años"
+            "bio": "También conocido simplemente como Newt por familiares y amigos, fue un famoso Magizoólogo y autor de Animales fantásticos y dónde encontrarlos. En 1918, él fue contratado por Augustus Worme de Obscurus Books, de la editorial Obscurus Books, para escribir su famoso libro (Animales fantásticos y dónde encontrarlos). Este ultimo se convirtió en un best-seller, haciendo de Scamander un respetado experto en el campo de la Magizoología. Actualmente no se sabe si sigue vivo o no, pero en caso de seguir vivo, se estima que tendría alrededor de los 127 años",
+            "CasaId": 3
         },
         {
             "nombre": "Cho Chang",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996349/Cho_Chang_okzian.webp",
             "edad": 44,
             "status": "Viva",
-            "bio": "Fue Buscadora del equipo de Quidditch de su casa y una estudiante popular. En el quinto año de Cho, ella comenzó a salir con Cedric Diggory mientras competía en el Torneo de los Tres Magos donde este ultimo sería asesinado por Peter Pettigrew a petición de Lord Voldemort. Su muerte hirió enormemente a Cho y la hizo decidida a luchar contra el recientemente devuelto Señor Tenebroso. Cho sobrevivió a la Segunda Guerra Mágica y finalmente se casó con un muggle del cual se desconoce su identidad."
+            "bio": "Fue Buscadora del equipo de Quidditch de su casa y una estudiante popular. En el quinto año de Cho, ella comenzó a salir con Cedric Diggory mientras competía en el Torneo de los Tres Magos donde este ultimo sería asesinado por Peter Pettigrew a petición de Lord Voldemort. Su muerte hirió enormemente a Cho y la hizo decidida a luchar contra el recientemente devuelto Señor Tenebroso. Cho sobrevivió a la Segunda Guerra Mágica y finalmente se casó con un muggle del cual se desconoce su identidad.",
+            "CasaId": 4
         },
         {
             "nombre": "Vincent Crabbe",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987485/Vincent_Crabbe_kzhban.webp",
             "edad": 18,
             "status": "Muerto",
-            "bio": "Fue un mago de sangre pura, hijo del Sr. Crabbe (el cual es un mortífago), y más tarde un mago oscuro. Junto con Gregory Goyle, rara vez se veían sin su líder, Draco Malfoy. Cuando Dolores Umbridge fue Directora de Hogwarts, se unió a la Brigada Inquisitorial. Murió accidentalmente al utilizar Fiendfyre (Fuego Demoníaco) al no saber utilizarlo adecuadamente, el 2 de mayo 1998, durante la Batalla de Hogwarts, en la Sala de los Menesteres, destruyendo así la Diadema de Rowena Ravenclaw, uno de los últimos Horrocruxes de Voldemort."
+            "bio": "Fue un mago de sangre pura, hijo del Sr. Crabbe (el cual es un mortífago), y más tarde un mago oscuro. Junto con Gregory Goyle, rara vez se veían sin su líder, Draco Malfoy. Cuando Dolores Umbridge fue Directora de Hogwarts, se unió a la Brigada Inquisitorial. Murió accidentalmente al utilizar Fiendfyre (Fuego Demoníaco) al no saber utilizarlo adecuadamente, el 2 de mayo 1998, durante la Batalla de Hogwarts, en la Sala de los Menesteres, destruyendo así la Diadema de Rowena Ravenclaw, uno de los últimos Horrocruxes de Voldemort.",
+            "CasaId": 2
         },
         {
             "nombre": "Gregory Goyle",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987521/Gregory_Goyle_i3mpz4.webp",
             "edad": 43,
             "status": "Desconocido",
-            "bio": "Era el mejor amigo de Draco Malfoy en los siete años que estuvo en Hogwarts. El 2 de mayo de 1998 él y Crabbe entraron junto a Draco en la Sala de los Menesteres, persiguiendo a Harry, quien buscaba el sexto Horrocrux. Crabbe iniciaría un conflicto tratando de matar a Hermione sin exito con un Avada Kedavra, y posteriormente causaria su propia muerte al utilizar Fiendfyre para quemar el lugar, pero Goyle y Malfoy sobrevivieron y escaparon del lugar junto a Harry y los demas. Actualmente se desconoce que es de el o si sigue vivo o no, pero en caso de seguir vivo, se estima que tendría alrededor de los 43 años"
+            "bio": "Era el mejor amigo de Draco Malfoy en los siete años que estuvo en Hogwarts. El 2 de mayo de 1998 él y Crabbe entraron junto a Draco en la Sala de los Menesteres, persiguiendo a Harry, quien buscaba el sexto Horrocrux. Crabbe iniciaría un conflicto tratando de matar a Hermione sin exito con un Avada Kedavra, y posteriormente causaria su propia muerte al utilizar Fiendfyre para quemar el lugar, pero Goyle y Malfoy sobrevivieron y escaparon del lugar junto a Harry y los demas. Actualmente se desconoce que es de el o si sigue vivo o no, pero en caso de seguir vivo, se estima que tendría alrededor de los 43 años",
+            "CasaId": 2
         },
         {
             "nombre": "Peter Pettigrew",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987671/Peter_Pettigrew_yq6j6v.webp",
             "edad": 38,
             "status": "Muerto",
-            "bio": "Generalmente conocido como Colagusano o Scabbers(la rata mascota de Ron) era un mago hijo del Sr. y la Sra. Pettigrew. Se hizo Guardián Secreto para los Potter cuando se escondieron con el uso del Encantamiento Fidelio, y traicionó a James, su esposa Lily, y su hijo Harry entregándolos a Lord Voldemort. Después de la caída de Voldemort, fingió su propia muerte e incriminó a Sirius por traicionar y asesinar a James y Lily. En la primavera de 1998, durante la Escaramuza en la Mansión Malfoy, moriría estrangulado por la mano de plata que Lord Voldemort le había dado al interpretar un momento de misericordia que le había tenido a Harry como deslealtad"
+            "bio": "Generalmente conocido como Colagusano o Scabbers(la rata mascota de Ron) era un mago hijo del Sr. y la Sra. Pettigrew. Se hizo Guardián Secreto para los Potter cuando se escondieron con el uso del Encantamiento Fidelio, y traicionó a James, su esposa Lily, y su hijo Harry entregándolos a Lord Voldemort. Después de la caída de Voldemort, fingió su propia muerte e incriminó a Sirius por traicionar y asesinar a James y Lily. En la primavera de 1998, durante la Escaramuza en la Mansión Malfoy, moriría estrangulado por la mano de plata que Lord Voldemort le había dado al interpretar un momento de misericordia que le había tenido a Harry como deslealtad",
+            "CasaId": 1
         },{
             "nombre": "Sirius Black",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715986908/Sirius_Black_zulocg.webp",
             "edad": 36,
             "status": "Muerto",
-            "bio": "Fue un mago de sangre pura, proveniente de la familia Black. Sirius estaba en desacuerdo con las creencias de su familia(por más heredero que fuera) sobre la pureza de la sangre desafiando a su familia, haciendo que este tuviese una relación distante con esta, encontrando su lugar junto a los Potter. Sirius sería enviado a Azkaban por doce años por crimenes acusados por Peter Pettigrew que este no cometio, escapando del lugar y posteriormente demostrar su inocencia a su viejo amigo Remus Lupin y a su ahijado, Harry Potter. Finalmente moriria a manos de Bellatrix Lestrange durante la Batalla del Departamento de Misterios por un Avada Kedavra"
+            "bio": "Fue un mago de sangre pura, proveniente de la familia Black. Sirius estaba en desacuerdo con las creencias de su familia(por más heredero que fuera) sobre la pureza de la sangre desafiando a su familia, haciendo que este tuviese una relación distante con esta, encontrando su lugar junto a los Potter. Sirius sería enviado a Azkaban por doce años por crimenes acusados por Peter Pettigrew que este no cometio, escapando del lugar y posteriormente demostrar su inocencia a su viejo amigo Remus Lupin y a su ahijado, Harry Potter. Finalmente moriria a manos de Bellatrix Lestrange durante la Batalla del Departamento de Misterios por un Avada Kedavra",
+            "CasaId": 1
 
         },
         {
@@ -111,49 +127,56 @@
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987822/Remus_Lupin_bjsqnd.webp",
             "edad": 38,
             "status": "Muerto",
-            "bio": "Era uno de los mejores amigos del padre de Harry, James Potter. Su sangre es mestiza y en su niñez fue mordido por el Hombre lobo Fenrir Greyback volviendose uno el tambien. En 1997, luego de la Batalla de la Torre de Astronomía, Nymphadora Tonks le confesó su amor y comenzaron una relación amorosa que terminó en matrimonio y la concepción de un hijo llamado Edward. Murió en combate durante la Batalla de Hogwarts el 2 de mayo de 1998, asesinado por Antonin Dolohov"
+            "bio": "Era uno de los mejores amigos del padre de Harry, James Potter. Su sangre es mestiza y en su niñez fue mordido por el Hombre lobo Fenrir Greyback volviendose uno el tambien. En 1997, luego de la Batalla de la Torre de Astronomía, Nymphadora Tonks le confesó su amor y comenzaron una relación amorosa que terminó en matrimonio y la concepción de un hijo llamado Edward. Murió en combate durante la Batalla de Hogwarts el 2 de mayo de 1998, asesinado por Antonin Dolohov",
+            "CasaId": 1
         },
         {
             "nombre": "Nymphadora Tonks",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715997066/Nymphadora_Tonks_cmmk0c.webp",
             "edad": 25,
             "status": "Muerta",
-            "bio": "Ella era metamorfomaga y asistió al Colegio Hogwarts de Magia y Hechicería desde 1984 hasta 1991. Después de dejar Hogwarts, Tonks se unió al Ministerio de Magia y se entrenó para convertirse en una Auror bajo la atenta mirada de Alastor Moody, calificando en 1994. En el verano de 1997 Tonks se caso con Remus Lupin y un tiempo más tarde daría luz a un hijo(Teddy Remus Lupin). El 2 de mayo de 1998, Tonks luchó en la Batalla de Hogwarts y fue asesinada por Bellatrix Lestrange(su tía materna)."
+            "bio": "Ella era metamorfomaga y asistió al Colegio Hogwarts de Magia y Hechicería desde 1984 hasta 1991. Después de dejar Hogwarts, Tonks se unió al Ministerio de Magia y se entrenó para convertirse en una Auror bajo la atenta mirada de Alastor Moody, calificando en 1994. En el verano de 1997 Tonks se caso con Remus Lupin y un tiempo más tarde daría luz a un hijo(Teddy Remus Lupin). El 2 de mayo de 1998, Tonks luchó en la Batalla de Hogwarts y fue asesinada por Bellatrix Lestrange(su tía materna).",
+            "CasaId": 3
         },
         {
             "nombre": "Rubeus Hagrid",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987160/Rubeushagrid_etag8f.webp",
             "edad": 96,
             "status": "Desconocido",
-            "bio": "Familiarmente conocido sólo por su apellido, \"Hagrid\", es un mago semi gigante, hijo del señor Hagrid y la giganta Fridwulfa y medio hermano del gigante Grawp. En 1991, a Hagrid se le dio la tarea de reintroducir a Harry Potter al mundo mágico. Como miembro de la Orden del Fénix original, Hagrid lucho en la primera guerra mágica, mientras que en 1998 también lucho durante la segunda, esta vez como miembro de la Orden del Fénix restaurada. Actualmente se desconoce si sigue vivo o no, pero en caso de seguir vivo, se estima que tendría alrededor de 96 años."
+            "bio": "Familiarmente conocido sólo por su apellido, \"Hagrid\", es un mago semi gigante, hijo del señor Hagrid y la giganta Fridwulfa y medio hermano del gigante Grawp. En 1991, a Hagrid se le dio la tarea de reintroducir a Harry Potter al mundo mágico. Como miembro de la Orden del Fénix original, Hagrid lucho en la primera guerra mágica, mientras que en 1998 también lucho durante la segunda, esta vez como miembro de la Orden del Fénix restaurada. Actualmente se desconoce si sigue vivo o no, pero en caso de seguir vivo, se estima que tendría alrededor de 96 años.",
+            "CasaId": 1
         },
         {
             "nombre": "Myrtle Warren",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996411/Myrtle1_vrl737.webp",
             "edad": 14,
             "status": "Muerta",
-            "bio": "Mejor conocida como Myrtle la Llorona fue una bruja nacida de Muggles que asistió a Hogwarts desde el año 1939 0 1940. En 1943 fue asesinada por el Basilisco de Salazar Slytherin, bajo las órdenes de un joven Tom Riddle(quien en un futuro sería conocido como Lord Voldemort). Post-Muerte, se volvió un fantasma para poder perseguir a Olive Hornby en venganza por la burla y el insulto. Olive reclutó la ayuda del Ministerio de Magia para exorcizar a Myrtle, que después fue obligada a permanecer en Hogwarts. Myrtle rondaba el cuarto de baño donde había muerto, y fue vista fuera sola en los otros aseos."
+            "bio": "Mejor conocida como Myrtle la Llorona fue una bruja nacida de Muggles que asistió a Hogwarts desde el año 1939 0 1940. En 1943 fue asesinada por el Basilisco de Salazar Slytherin, bajo las órdenes de un joven Tom Riddle(quien en un futuro sería conocido como Lord Voldemort). Post-Muerte, se volvió un fantasma para poder perseguir a Olive Hornby en venganza por la burla y el insulto. Olive reclutó la ayuda del Ministerio de Magia para exorcizar a Myrtle, que después fue obligada a permanecer en Hogwarts. Myrtle rondaba el cuarto de baño donde había muerto, y fue vista fuera sola en los otros aseos.",
+            "CasaId": 4
         },
         {
             "nombre": "Minerva McGonagall",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715986817/Minerva_pk1d9i.webp",
             "edad": 90,
             "status": "Viva",
-            "bio": "Es una bruja escocesa de sangre mestiza y una animaga registrada. Minerva asistió al Colegio Hogwarts de Magia y Hechicería y fue seleccionada para la Casa Gryffindor, pero el Sombrero Seleccionador tardó cinco minutos y medio en decidir si era Gryffindor o Ravenclaw, lo que la convirtió en una Hatstall. Tras un tiempo trabajando en el Ministerio de Magia y a posteriori en Hogwards como Jefa de la Casa Gryffindor y profesora de Transformaciones, se convirtió en la subdirectora y directora de Hogwarts, cargo que sigue ejerciendo tras sobrevivir a la segunda guerra mágica. A día de hoy se desconoce cual sea su edad, pero se estima que tendrá entre 90 y 100 años."
+            "bio": "Es una bruja escocesa de sangre mestiza y una animaga registrada. Minerva asistió al Colegio Hogwarts de Magia y Hechicería y fue seleccionada para la Casa Gryffindor, pero el Sombrero Seleccionador tardó cinco minutos y medio en decidir si era Gryffindor o Ravenclaw, lo que la convirtió en una Hatstall. Tras un tiempo trabajando en el Ministerio de Magia y a posteriori en Hogwards como Jefa de la Casa Gryffindor y profesora de Transformaciones, se convirtió en la subdirectora y directora de Hogwarts, cargo que sigue ejerciendo tras sobrevivir a la segunda guerra mágica. A día de hoy se desconoce cual sea su edad, pero se estima que tendrá entre 90 y 100 años.",
+            "CasaId": 1
         },
         {
             "nombre": "Pomona Sprout",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996994/Pomona_Sprout_eobdeu.webp",
             "edad": 93,
             "status": "Desconocido",
-            "bio": "Es una bruja que trabajaba como Jefa de la Casa de Hufflepuff y ocupó el cargo de Jefa del Departamento de Herbología en el Colegio Hogwarts de Magia y Hechicería. Asistió a la escuela en su juventud, donde se destacó en la Herbología lo que tiempo después la convertiría en profesora de dicha materia. En 1993, ella elaboró el Zumo de Mandrágora restaurativa para los que se habían quedado petrificados por el monstruo de Slytherin. Ella finalmente sobrevivió a la segunda guerra mágica y se había retirado en 2017, con la sustitución de Neville Longbottom que ella le dio el puesto de profesor de Herbología. Se desconoce su vida actual, pero de seguir viva tendría 83 0 93 años"
+            "bio": "Es una bruja que trabajaba como Jefa de la Casa de Hufflepuff y ocupó el cargo de Jefa del Departamento de Herbología en el Colegio Hogwarts de Magia y Hechicería. Asistió a la escuela en su juventud, donde se destacó en la Herbología lo que tiempo después la convertiría en profesora de dicha materia. En 1993, ella elaboró el Zumo de Mandrágora restaurativa para los que se habían quedado petrificados por el monstruo de Slytherin. Ella finalmente sobrevivió a la segunda guerra mágica y se había retirado en 2017, con la sustitución de Neville Longbottom que ella le dio el puesto de profesor de Herbología. Se desconoce su vida actual, pero de seguir viva tendría 83 0 93 años",
+            "CasaId": 3
         },
         {
             "nombre": "Filius Flitwick",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996651/Filius_Flitwick_lvukgv.webp",
             "edad": 65,
             "status": "Desconocido",
-            "bio": "Es un mago semiduende que asistió a Colegio Hogwarts de Magia y Hechicería, donde fue un joven inteligente y un estudiante modelo. Algún tiempo después de su graduación, Flitwick regresó a Hogwarts y se convirtió en profesor de Encantamientos, así como en jefe de la casa Ravenclaw. Durante la primera y la segunda guerra mágica, Flitwick se opuso a Lord Voldemort, sobreviviendo en ambas y vengando la muerte Remus Lupin asesinando a Antonin Dolohov durante la Batalla de Hogwarts. Se conoce poco de su vida actual, pero se estima que sigue enseñando Encatamientos a futuras generaciones de magos, de ser así actualmente tendría 65 años o más."
+            "bio": "Es un mago semiduende que asistió a Colegio Hogwarts de Magia y Hechicería, donde fue un joven inteligente y un estudiante modelo. Algún tiempo después de su graduación, Flitwick regresó a Hogwarts y se convirtió en profesor de Encantamientos, así como en jefe de la casa Ravenclaw. Durante la primera y la segunda guerra mágica, Flitwick se opuso a Lord Voldemort, sobreviviendo en ambas y vengando la muerte Remus Lupin asesinando a Antonin Dolohov durante la Batalla de Hogwarts. Se conoce poco de su vida actual, pero se estima que sigue enseñando Encatamientos a futuras generaciones de magos, de ser así actualmente tendría 65 años o más.",
+            "CasaId": 4
 
         },
         {
@@ -161,116 +184,132 @@
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996587/Gilderoy_Lockhart_klvmwa.webp",
             "edad": 60,
             "status": "Vivo",
-            "bio": "Es un mago sangre mestiza y es el famoso autor de muchos libros acerca de criaturas oscuras y sus encuentros con ellas. Su única real habilidad siempre fueron los encantamientos desmemorizantes, por medio de los cuales forzaba a las personas que habían realizado las heroicidades de sus obras literarias a olvidar lo que habían hecho y, de paso, se ganaba un mérito ajeno. Lo que irínicamente lo haría perder la memoria al intentar aplicar este hechizo con Harry usando la varita estropeada de Ron, rebotando el hechizo en el. A partir de aquel hechizo fallido, Lockhart fue internado en el Hospital San Mungo de Enfermedades y Heridas Mágicas, convirtiéndose un residente permanente."
+            "bio": "Es un mago sangre mestiza y es el famoso autor de muchos libros acerca de criaturas oscuras y sus encuentros con ellas. Su única real habilidad siempre fueron los encantamientos desmemorizantes, por medio de los cuales forzaba a las personas que habían realizado las heroicidades de sus obras literarias a olvidar lo que habían hecho y, de paso, se ganaba un mérito ajeno. Lo que irínicamente lo haría perder la memoria al intentar aplicar este hechizo con Harry usando la varita estropeada de Ron, rebotando el hechizo en el. A partir de aquel hechizo fallido, Lockhart fue internado en el Hospital San Mungo de Enfermedades y Heridas Mágicas, convirtiéndose un residente permanente.",
+            "CasaId": 4
         },
         {
             "nombre": "Theseus Scamander",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715997815/Theseus_Scamander_wqrezk.webp",
             "edad": 136,
             "status": "Desconocido",
-            "bio": "Fue un auror del Ministerio de Magia británico, y el hermano mayor del famoso magizoologista Newton Scamander. Es considerado un héroe de guerra por su participación en la Primera Guerra Mundial. A ciencia cierta no se sabe mucho de el actualmente, de seguir vivo tendría 135 o 136 años."
+            "bio": "Fue un auror del Ministerio de Magia británico, y el hermano mayor del famoso magizoologista Newton Scamander. Es considerado un héroe de guerra por su participación en la Primera Guerra Mundial. A ciencia cierta no se sabe mucho de el actualmente, de seguir vivo tendría 135 o 136 años.",
+            "CasaId": 3
         },
         {
             "nombre": "Dolores Umbridge",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715989562/Dolores_Umbridge_cqnd8t.webp",
             "edad": 58,
             "status": "Viva",
-            "bio": "Dolores Umbridge era una bruja bajita, rechoncha y con cara de sapo, además de su característica voz chillona. Por culpa de Marietta Edgecombe(Cho Chang en el caso de la pelicula), la soplona, Umbridge descubrió el propósito del grupo, pero entonces Dumbledore \"admite\" su culpabilidad y se marcha de Hogwarts. Desde ese momento hasta el final de curso, Dolores Umbridge se convierte en directora de Hogwarts, pero sin acceso al Despacho del Director (ya que la gárgola no le permitió ingresar). Con la caída definitiva de Lord Voldemort, Dolores fue arrestada y enviada a Azkaban por maltrato a los nacidos de muggles, donde se estima que aún sigue cumpliendo con su condena."
+            "bio": "Dolores Umbridge era una bruja bajita, rechoncha y con cara de sapo, además de su característica voz chillona. Por culpa de Marietta Edgecombe(Cho Chang en el caso de la pelicula), la soplona, Umbridge descubrió el propósito del grupo, pero entonces Dumbledore \"admite\" su culpabilidad y se marcha de Hogwarts. Desde ese momento hasta el final de curso, Dolores Umbridge se convierte en directora de Hogwarts, pero sin acceso al Despacho del Director (ya que la gárgola no le permitió ingresar). Con la caída definitiva de Lord Voldemort, Dolores fue arrestada y enviada a Azkaban por maltrato a los nacidos de muggles, donde se estima que aún sigue cumpliendo con su condena.",
+            "CasaId": 2
         },
         {
             "nombre": "Bellatrix Lestrange",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987293/BellatrixLestrange_c9iujw.webp",
             "edad": 47,
             "status": "Muerta",
-            "bio": "Bellatrix Lestrange, también conocida como Bella, fue una bruja de sangre pura, hija de Cygnus y Druella Black. Después de Hogwarts, se volvió una Mortífaga fanáticamente leal a Lord Voldemort. Era una de las pocas mujeres en el grupo, al igual que una de los más peligrosos y sádicos seguidores de Voldemort. Para la culminación de la Primera Guerra Mágica, Bellatrix y su marido, Rodolphus Lestrange, torturaron a los Aurores Alice y Frank Longbottom al punto de causarles locura permanente, junto a sus camaradas mortífagos Rabastan Lestrange y Barty Crouch Jr. Durante la Batalla de Hogwarts, Molly Weasley acabó con la vida de Bellatrix, su violencia y malicia."
+            "bio": "Bellatrix Lestrange, también conocida como Bella, fue una bruja de sangre pura, hija de Cygnus y Druella Black. Después de Hogwarts, se volvió una Mortífaga fanáticamente leal a Lord Voldemort. Era una de las pocas mujeres en el grupo, al igual que una de los más peligrosos y sádicos seguidores de Voldemort. Para la culminación de la Primera Guerra Mágica, Bellatrix y su marido, Rodolphus Lestrange, torturaron a los Aurores Alice y Frank Longbottom al punto de causarles locura permanente, junto a sus camaradas mortífagos Rabastan Lestrange y Barty Crouch Jr. Durante la Batalla de Hogwarts, Molly Weasley acabó con la vida de Bellatrix, su violencia y malicia.",
+            "CasaId": 2
         },
         {
             "nombre": "Fred Weasley",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987966/Fred_o517jn.webp",
             "edad": 20,
             "status": "Muerto",
-            "bio": "Era un mago Sangre Pura, un hijo de Molly y Arthur Weasley, hermano de Bill, Charlie, Percy, Ron y Ginny Weasley, y el hermano gemelo de George Weasley. Tanto él como su hermano gemelo eran estudiantes populares, conocidos por su sentido del humor, bromas, y por ser Golpeadores del Equipo de Quidditch de Gryffindor. Fred era un bromista y brillante inventor, Fred dejó Hogwarts poco antes de la graduación para convertirse en un empresario exitoso, junto a su hermano gemelo, y abrió la tienda de bromas: Sortilegios Weasley en el Callejón Diagon. Lamentablemente durante la Batalla de Hogwarts, Fred fue asesinado en una explosión causada por el Mortífago Augustus Rookwood."
+            "bio": "Era un mago Sangre Pura, un hijo de Molly y Arthur Weasley, hermano de Bill, Charlie, Percy, Ron y Ginny Weasley, y el hermano gemelo de George Weasley. Tanto él como su hermano gemelo eran estudiantes populares, conocidos por su sentido del humor, bromas, y por ser Golpeadores del Equipo de Quidditch de Gryffindor. Fred era un bromista y brillante inventor, Fred dejó Hogwarts poco antes de la graduación para convertirse en un empresario exitoso, junto a su hermano gemelo, y abrió la tienda de bromas: Sortilegios Weasley en el Callejón Diagon. Lamentablemente durante la Batalla de Hogwarts, Fred fue asesinado en una explosión causada por el Mortífago Augustus Rookwood.",
+            "CasaId": 1
         },
         {
             "nombre": "George Weasley",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987976/George_vzb62g.webp",
             "edad": 46,
             "status": "Vivo",
-            "bio": "Fue un mago de Sangre Pura, hijo de Arthur y Molly Weasley, hermano de Bill, Charlie, Percy, Ron, Ginny y el hermano gemelo menor del fallecido Fred Weasley. Él y Fred eran estudiantes populares, convirtiéndose en Golpeadores del equipo de Quidditch de Gryffindor en su segundo año, y miembros del Ejército de Dumbledore en su inacabado séptimo año. Durante la Batalla de Hogwarts, Fred fallecio, dejando a George desvastado. En algún momento después del final de la Segunda Guerra Mágica, George se casó con Angelina Johnson, con quien tuvo 1 hijo(Fred Weasley II, en honor a su difunto hermano) y 1 hija (Roxanne Weasley)."
+            "bio": "Fue un mago de Sangre Pura, hijo de Arthur y Molly Weasley, hermano de Bill, Charlie, Percy, Ron, Ginny y el hermano gemelo menor del fallecido Fred Weasley. Él y Fred eran estudiantes populares, convirtiéndose en Golpeadores del equipo de Quidditch de Gryffindor en su segundo año, y miembros del Ejército de Dumbledore en su inacabado séptimo año. Durante la Batalla de Hogwarts, Fred fallecio, dejando a George desvastado. En algún momento después del final de la Segunda Guerra Mágica, George se casó con Angelina Johnson, con quien tuvo 1 hijo(Fred Weasley II, en honor a su difunto hermano) y 1 hija (Roxanne Weasley).",
+            "CasaId": 1
         },
         {
             "nombre": "Lucius Malfoy",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987372/Lucius_txski9.webp",
             "edad": 70,
             "status": "Vivo",
-            "bio": "Era el marido de Narcisa Black, el padre de Draco y abuelo de Scorpius Malfoy, vivía en la Mansión Malfoy, ubicada en Wiltshire. Lucius era un hombre aristocrático, además de ser un mortifago, y como tal tenía una obsesión con la pureza de sangre por lo que adoctrinó a su hijo Draco con los mismos ideales. Durante las dos derrotas que tuvo Voldemort(en la primera y segunda guerra mágica), logro evitar ir a Azkaban, en la primera alegando que había sido controlado por el maleficio Imperius y en la segunda brindándole al Ministerio de Magia los nombres de los mortífagos que se encontraban huyendo. Se desconoce que es de su vida, pero se sabe que aún vive a sus 70 años."
+            "bio": "Era el marido de Narcisa Black, el padre de Draco y abuelo de Scorpius Malfoy, vivía en la Mansión Malfoy, ubicada en Wiltshire. Lucius era un hombre aristocrático, además de ser un mortifago, y como tal tenía una obsesión con la pureza de sangre por lo que adoctrinó a su hijo Draco con los mismos ideales. Durante las dos derrotas que tuvo Voldemort(en la primera y segunda guerra mágica), logro evitar ir a Azkaban, en la primera alegando que había sido controlado por el maleficio Imperius y en la segunda brindándole al Ministerio de Magia los nombres de los mortífagos que se encontraban huyendo. Se desconoce que es de su vida, pero se sabe que aún vive a sus 70 años.",
+            "CasaId": 2
         },{
             "nombre": "Helena Ravenclaw",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996831/Helena_Ravenclaw_lk1sfu.webp",
             "edad": 18,
             "status": "Muerta",
-            "bio": "Conocida como la Dama Gris después de su muerte, era una bruja hija de Rowena Ravenclaw. En algún momento, robó la diadema de su madre y huyó a Albania. Rowena cayó gravemente enferma, y esperando ver a su hija por última vez, envió al Barón Sanguinario (un hombre que ocultaba un amor no correspondido por Helena), para encontrarla. El Barón mató a Helena cuando esta se negó a volver con él, luego se suicidó de arrepentimiento por lo que había hecho. No se sabe con exactitud a que edad murio Helena, pero se estima que debio haber sido a los 18 o más."
+            "bio": "Conocida como la Dama Gris después de su muerte, era una bruja hija de Rowena Ravenclaw. En algún momento, robó la diadema de su madre y huyó a Albania. Rowena cayó gravemente enferma, y esperando ver a su hija por última vez, envió al Barón Sanguinario (un hombre que ocultaba un amor no correspondido por Helena), para encontrarla. El Barón mató a Helena cuando esta se negó a volver con él, luego se suicidó de arrepentimiento por lo que había hecho. No se sabe con exactitud a que edad murio Helena, pero se estima que debio haber sido a los 18 o más.",
+            "CasaId": 4
         },
         {
             "nombre": "Merlin",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715989671/Merlin_wwcu7j.webp",
             "edad": 0,
             "status": "Muerto",
-            "bio": "Merlín fue un mago medieval legendario y miembro de la corte del Rey Arturo. La comunidad mágica también cree ampliamente que era amigo de Sir Cadogan, lo que le ayudó a conseguir un puesto en los Caballeros de la Mesa Redonda. Según se dice, el creía firmemente que los magos estaban destinados a usar la magia para ayudar a los muggles, lo que lo llevo en su tiempo a crear la Orden de Merlin. A ciencia cierta, no hay información sobre como y cuando fallecio, por ende su edad es un misterio, a pesar del gran legado que dejo su nombre."
+            "bio": "Merlín fue un mago medieval legendario y miembro de la corte del Rey Arturo. La comunidad mágica también cree ampliamente que era amigo de Sir Cadogan, lo que le ayudó a conseguir un puesto en los Caballeros de la Mesa Redonda. Según se dice, el creía firmemente que los magos estaban destinados a usar la magia para ayudar a los muggles, lo que lo llevo en su tiempo a crear la Orden de Merlin. A ciencia cierta, no hay información sobre como y cuando fallecio, por ende su edad es un misterio, a pesar del gran legado que dejo su nombre.",
+            "CasaId": 2
         },{
             "nombre": "Quirinus Quirrell",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996700/Quirinus_Quirrell_aedh6y.webp",
             "edad": 42,
             "status": "Muerto",
-            "bio": "Fue un mago que asistió al Colegio Hogwarts de Magia y Hechiceria. Más tarde, se convirtió en profesor de Estudios Muggles y después de Defensa Contra las Artes Oscuras. Mientras viajaba para obtener experiencias de primera mano antes de enseñar Defensa Contra las Artes Oscuras, se encontró con Lord Voldemort, quien lo volvió a su causa. Desde entonces se volvió fiel a él y le prestó el cuerpo y su ayuda para poder llegar a la Piedra Filosofal, pero murió intentando en vano matar a Harry Potter en 1992 a la edad de 32 o 42 años."
+            "bio": "Fue un mago que asistió al Colegio Hogwarts de Magia y Hechiceria. Más tarde, se convirtió en profesor de Estudios Muggles y después de Defensa Contra las Artes Oscuras. Mientras viajaba para obtener experiencias de primera mano antes de enseñar Defensa Contra las Artes Oscuras, se encontró con Lord Voldemort, quien lo volvió a su causa. Desde entonces se volvió fiel a él y le prestó el cuerpo y su ayuda para poder llegar a la Piedra Filosofal, pero murió intentando en vano matar a Harry Potter en 1992 a la edad de 32 o 42 años.",
+            "CasaId": 4
         },{
             "nombre": "Hannah Abbott",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715997892/Hannah_Abbott_n2q9vc.webp",
             "edad": 43,
             "status": "Viva",
-            "bio": "Es una bruja de sangre mestiza que asistió a al Colegio Hogwarts de Magia y Hechiceria en el mismo año que Harry Potter y es amiga cercana de Susan Bones. En el tercer año, Hannah, se pasó toda una clase de Herbología argumentando que Sirius Black podría convertirse en un arbusto. En 5to año, Hannah y Ernie se convierten en prefectos de Hufflepuff. En el 7º año en Hogwarts, Hannah Abbott pelea en la batalla final contra Voldemort, a la cual sobrevivio y un tiempo despues se casaría con su antiguo compañero de clase y líder de la rebelión estudiantil, Neville Longbottom."
+            "bio": "Es una bruja de sangre mestiza que asistió a al Colegio Hogwarts de Magia y Hechiceria en el mismo año que Harry Potter y es amiga cercana de Susan Bones. En el tercer año, Hannah, se pasó toda una clase de Herbología argumentando que Sirius Black podría convertirse en un arbusto. En 5to año, Hannah y Ernie se convierten en prefectos de Hufflepuff. En el 7º año en Hogwarts, Hannah Abbott pelea en la batalla final contra Voldemort, a la cual sobrevivio y un tiempo despues se casaría con su antiguo compañero de clase y líder de la rebelión estudiantil, Neville Longbottom.",
+            "CasaId": 3
         },
         {
             "nombre": "Susan Bones",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715998188/SusanBones_v7y7vl.webp",
             "edad": 43,
             "status": "Desconocido",
-            "bio": "Susan Bones fue una bruja de sangre mestiza, estudiante de Hufflepuff en el Colegio Hogwarts de Magia y Hechicería en el mismo año que Harry Potter y es maga cercana de Hannah Abbott. La mayoría de los miembros de su familia, incluyendo sus abuelos, su tío Edgar, su tía y sus primos, fueron asesinados por Lord Voldemort durante la Primera Guerra Mágica. Susan no figuraba entre las víctimas, por lo que sobrevivió a la Segunda Guerra Mágica. Su vida posterior se desconoce, pero se dice que se casó con Justin Finch-Fletchley, de seguir viva actualmente tendría alrededor de 43 años."
+            "bio": "Susan Bones fue una bruja de sangre mestiza, estudiante de Hufflepuff en el Colegio Hogwarts de Magia y Hechicería en el mismo año que Harry Potter y es maga cercana de Hannah Abbott. La mayoría de los miembros de su familia, incluyendo sus abuelos, su tío Edgar, su tía y sus primos, fueron asesinados por Lord Voldemort durante la Primera Guerra Mágica. Susan no figuraba entre las víctimas, por lo que sobrevivió a la Segunda Guerra Mágica. Su vida posterior se desconoce, pero se dice que se casó con Justin Finch-Fletchley, de seguir viva actualmente tendría alrededor de 43 años.",
+            "CasaId": 3
         },
         {
             "nombre": "Roger Davies",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715996478/Roger_Davies_n13nka.webp",
             "edad": 47,
             "status": "Desconocido",
-            "bio": "Fue un mago de la casa Ravenclaw que estudió en el Colegio Hogwarts de Magia y Hechiceria desde 1989 hasta 1996. Fue capitán de Quidditch del equipo de Ravenclaw y jugó como cazador. Es conocido por ser muy guapo. En 1994, Roger fue la cita de Fleur Delacour en el baile de Navidad. Fue encantado por la belleza y el encanto de la parte-veela. Estaba tan hipnotizado que incluso no prestaba atención a lo que le decía, sino que la miraba fijamente todo el tiempo. Actualmente no se sabe nada de el, pero de seguir vivo se estima que tendría 47 años."
+            "bio": "Fue un mago de la casa Ravenclaw que estudió en el Colegio Hogwarts de Magia y Hechiceria desde 1989 hasta 1996. Fue capitán de Quidditch del equipo de Ravenclaw y jugó como cazador. Es conocido por ser muy guapo. En 1994, Roger fue la cita de Fleur Delacour en el baile de Navidad. Fue encantado por la belleza y el encanto de la parte-veela. Estaba tan hipnotizado que incluso no prestaba atención a lo que le decía, sino que la miraba fijamente todo el tiempo. Actualmente no se sabe nada de el, pero de seguir vivo se estima que tendría 47 años.",
+            "CasaId": 4
         },
         {
             "nombre": "Marcus Flint",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715988246/Marcus_rbgkxl.webp",
             "edad": 50,
             "status": "Desconocido",
-            "bio": "Fue un mago que asistió a Colegio Hogwarts de Magia y Hechicería desde 1986 hasta 1994 y fue elegido para la casa de Slytherin. Él fue un Cazador en el equipo de Quidditch de Slytherin asi como fue Capitán desde 1991 hasta 1994. Flint tuvo que repetir último año de educación porque fracasó en sus exámenes la primera vez. Se desconoce lo que pasó con Flint después de Hogwarts, de seguir vivo, se estima que tendría 50 años."
+            "bio": "Fue un mago que asistió a Colegio Hogwarts de Magia y Hechicería desde 1986 hasta 1994 y fue elegido para la casa de Slytherin. Él fue un Cazador en el equipo de Quidditch de Slytherin asi como fue Capitán desde 1991 hasta 1994. Flint tuvo que repetir último año de educación porque fracasó en sus exámenes la primera vez. Se desconoce lo que pasó con Flint después de Hogwarts, de seguir vivo, se estima que tendría 50 años.",
+            "CasaId": 2
         },
         {
             "nombre": "Justin Finch-Fletchley",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715998422/Justin_Finch-Fletchley_brvjo5.webp",
             "edad": 43,
             "status": "Desconocido",
-            "bio": "Justin Finch-Fletchley era un mago nacido de muggles. Estuvo en el mismo año que Harry Potter en el Colegio Hogwarts de Magia y Hechicería y fue elegido para la Casa Hufflepuff. Justin fue atacado por el basilisco, y todos los que creían que Harry era el Heredero de Slytherin le atribuyeron ese ataque a él. Pero al final, gracias a las plantas de la Profesora Sprout todos los alumnos que fueron pretifricados volvieron a la normalidad y todo el mundo creyó a Harry. Actualmente se desconoce la vida de Justin, se dice que se casó con Susan Bones, y de seguir vivo se estima que tendría 43 años."
+            "bio": "Justin Finch-Fletchley era un mago nacido de muggles. Estuvo en el mismo año que Harry Potter en el Colegio Hogwarts de Magia y Hechicería y fue elegido para la Casa Hufflepuff. Justin fue atacado por el basilisco, y todos los que creían que Harry era el Heredero de Slytherin le atribuyeron ese ataque a él. Pero al final, gracias a las plantas de la Profesora Sprout todos los alumnos que fueron pretifricados volvieron a la normalidad y todo el mundo creyó a Harry. Actualmente se desconoce la vida de Justin, se dice que se casó con Susan Bones, y de seguir vivo se estima que tendría 43 años.",
+            "CasaId": 3
         },{
             "nombre": "Oliver Wood",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1715987766/Oliver_Wood_enplod.webp",
             "edad": 49,
             "status": "Desconocido",
-            "bio": "Fue un mago escocés quien fue el guardián y capitán del equipo de Quidditch de Gryffindor. Asistió al Colegio Hogwarts de Magia y Hechicería desde 1987 a 1994, y era conocido por su determinación y su habilidad en el campo de juego. Oliver dirigió el equipo de Gryffindor a la victoria en la Copa de Quidditch en su séptimo año. Después de salir de la escuela, se unió a Puddlemere United como jugador de reserva. En 1998, Oliver regresó a Hogwarts para ser participe de la Batalla de Hogwarts, en la cual sobrevivio y según se dice volvio a su vida como jugador profesional de Quidditch. De seguir vivo se estima que tendría 49 años."
-
+            "bio": "Fue un mago escocés quien fue el guardián y capitán del equipo de Quidditch de Gryffindor. Asistió al Colegio Hogwarts de Magia y Hechicería desde 1987 a 1994, y era conocido por su determinación y su habilidad en el campo de juego. Oliver dirigió el equipo de Gryffindor a la victoria en la Copa de Quidditch en su séptimo año. Después de salir de la escuela, se unió a Puddlemere United como jugador de reserva. En 1998, Oliver regresó a Hogwarts para ser participe de la Batalla de Hogwarts, en la cual sobrevivio y según se dice volvio a su vida como jugador profesional de Quidditch. De seguir vivo se estima que tendría 49 años.",
+            "CasaId": 1
         },
         {
             "nombre": "Antonin Dolohov",
             "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1716162766/Dolohov1998_jnxs5j.webp",
             "edad": 38,
             "status": "Muerto",
-            "bio": "Fue un mago de sangre pura y un mortífago. Luchó en la Primera Guerra Mágica, durante la cual torturó a muchos Muggles, magos y brujas que no apoyaban a Voldemort. Escapó de Azkaban tras el regreso de Voldemort al iniciar la Segunda Guerra Mágica, en la fuga masiva de 1996, y participó en la Batalla del Departamento de Misterios, donde fue recapturado y encarcelado. En el verano de 1997, Dolohov volvió a escapar. En 1998, Dolohov luchó en la Batalla de Hogwarts, durante la cual asesinó a Remus Lupin, con quien se batió en un terrible duelo. También luchó contra el profesor de Encantamientos Filius Flitwick, por quien fue abatido y muerto."
+            "bio": "Fue un mago de sangre pura y un mortífago. Luchó en la Primera Guerra Mágica, durante la cual torturó a muchos Muggles, magos y brujas que no apoyaban a Voldemort. Escapó de Azkaban tras el regreso de Voldemort al iniciar la Segunda Guerra Mágica, en la fuga masiva de 1996, y participó en la Batalla del Departamento de Misterios, donde fue recapturado y encarcelado. En el verano de 1997, Dolohov volvió a escapar. En 1998, Dolohov luchó en la Batalla de Hogwarts, durante la cual asesinó a Remus Lupin, con quien se batió en un terrible duelo. También luchó contra el profesor de Encantamientos Filius Flitwick, por quien fue abatido y muerto.",
+            "CasaId": 2
         }
 
     ]

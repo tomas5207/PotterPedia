@@ -4,7 +4,8 @@ const fs = require('fs');
 
 const readFile = util.promisify(fs.readFile);
 
-const getMagos = async (req, res) => {
+const getMagosById = async (req, res) => {
+    const { id } = req.params;
     try{
         const dbMago = await readFile('src/json/dbMago.json', 'utf-8');
         const dbMagoJson = JSON.parse(dbMago);
@@ -21,9 +22,7 @@ const getMagos = async (req, res) => {
         if (existingMagos === 0) {
             await Mago.bulkCreate(dbMagos);
         }
-        const magos = await Mago.findAll({include: Casa,
-            order: [['id', 'ASC']]
-    });
+        const magos = await Mago.findByPk(id,{include: Casa});
         res.json(magos);
     }catch(error){
         console.error('Error al procesar la solicitud:', error); 
@@ -31,4 +30,4 @@ const getMagos = async (req, res) => {
     }
 };
 
-module.exports = {getMagos};
+module.exports = {getMagosById};

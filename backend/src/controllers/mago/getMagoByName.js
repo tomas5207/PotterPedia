@@ -1,10 +1,13 @@
 const {Mago, Casa} = require('../../db');
+const { Op } = require('sequelize');
 const util = require('util');
 const fs = require('fs');
 
 const readFile = util.promisify(fs.readFile);
 
-const getMagos = async (req, res) => {
+const getMagosByName = async (req, res) => {
+    const { nombre } = req.params;
+
     try{
         const dbMago = await readFile('src/json/dbMago.json', 'utf-8');
         const dbMagoJson = JSON.parse(dbMago);
@@ -21,9 +24,15 @@ const getMagos = async (req, res) => {
         if (existingMagos === 0) {
             await Mago.bulkCreate(dbMagos);
         }
-        const magos = await Mago.findAll({include: Casa,
-            order: [['id', 'ASC']]
-    });
+        const magos = await Mago.findAll({
+            where: {
+                nombre: {
+                    [Op.iLike]: `%${nombre}%`
+                }
+            }, 
+            include: Casa
+        });
+        
         res.json(magos);
     }catch(error){
         console.error('Error al procesar la solicitud:', error); 
@@ -31,4 +40,4 @@ const getMagos = async (req, res) => {
     }
 };
 
-module.exports = {getMagos};
+module.exports = {getMagosByName};
