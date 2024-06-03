@@ -1,3 +1,8 @@
+@font-face{
+  font-family: 'Harry Potter';
+  src: url('./assets/HARRYP__.TTF');
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -5,38 +10,116 @@
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.LandingPage video{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.LandingPage a{
+  text-decoration: none;
+  color: skyblue;
+  font-size: 2.5rem;
+  font-weight: 600;
+  font-family: 'Harry Potter';
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.LandingPage a:hover{
+  color: rgb(212, 204, 204);
+  text-shadow: 0 0 5px white;
+  transition: 0.8s;
 }
 
-.card {
-  padding: 2em;
+.Home{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 100px;
 }
 
-.read-the-docs {
-  color: #888;
+.HomeWizardCard{
+  background-color: rgb(189, 30, 30);
+  width: 500px;
+  height: 600px;
+  box-shadow: 0 0 5px white;
+  border: 5px solid gold;
+  font-family: 'Harry Potter';
+  color: gold;
+  font-size: 35px;
 }
+
+.HomeSpellCard{
+  background-color: rgb(23, 109, 29);
+  width: 500px;
+  height: 600px;
+  box-shadow: 0 0 5px white;
+  border: 5px solid silver;
+  font-family: 'Harry Potter';
+  color: silver;
+  font-size: 35px;
+}
+
+.HomeWizardCard:hover{
+  width: 510px;
+  height: 610px;
+  transition: 0.3s;
+  box-shadow: 0 0 15px white;
+  text-shadow: 0 0 5px white;
+}
+
+.HomeSpellCard:hover{
+  width: 510px;
+  height: 610px;
+  transition: 0.3s;
+  box-shadow: 0 0 15px white;
+  text-shadow: 0 0 5px white;
+}
+
+
+.HomePage video{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 120%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.HomePage h1{
+  font-family: 'Harry Potter';
+  color: rgb(193, 193, 23);
+  font-size: 60px;
+}
+
+.HomePage h2{
+  font-family: 'Harry Potter';
+  color: rgb(199, 58, 199);
+  font-size: 40px;
+}
+
+.HomePage img{
+  width: 400px;
+  height: 200px;
+}
+
+.HomePage .BookIcon{
+  width: 80px;
+  height: 80px;
+  position: relative;
+  top: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
