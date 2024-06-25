@@ -1,4 +1,5 @@
 import './App.css'
+import './Spells.css'
 import { Route, Routes } from 'react-router-dom'
 import Landing  from './components/Landing'
 import Home from './components/Home'

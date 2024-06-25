@@ -1,0 +1,86 @@
+/* Spells.css */
+.flip-book-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    perspective: 1000px;
+}
+
+.flip-book {
+    width: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+}
+
+.page {
+    width: 800px;
+    height: 900px;
+    box-shadow: 0 0 5px white;
+    border: 5px solid silver;
+    font-family: 'Harry Potter';
+    color: silver;
+    font-size: 35px;
+}
+
+.front-page {
+    background-color: rgb(23, 109, 29);
+}
+
+.pagination {
+    margin: 20px 0;
+}
+
+.pagination button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.pagination button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.pagination span {
+    margin: 0 10px;
+    font-size: 1.2em;
+}
+
+.spell-card {
+    text-align: center;
+    padding: 20px;
+}
+
+.spell-movimiento {
+    width: 30%;
+    height: auto;
+    position: relative;
+    top: 100px;
+}
+
+.movimiento{
+    position: relative;
+    top: -80px;
+}
+
+.open-book-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.open-book-button:hover {
+    background-color: #0056b3;
+}
+
+

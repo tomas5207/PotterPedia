@@ -114,6 +114,21 @@
 }
 
 
+.image-book {
+  width: 100%;
+  height: auto;
+}
+
+.book-icon {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 50px; /* Tamaño del icono del libro */
+}
+
+
+
+
 
 
 
